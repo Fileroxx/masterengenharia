@@ -427,7 +427,13 @@ footer .contato {
     text-align: center;
   }
 
-  footer .cop
+  footer .copyright {
+    text-align: center;
+  }
+
+  footer .contato {
+    text-align: center;
+  }
 
 }
 
